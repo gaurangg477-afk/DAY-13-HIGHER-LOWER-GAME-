@@ -73,3 +73,5 @@ Add difficulty levels
 Add a replay option
 
 Add a graphical user interface (GUI)
+## Author
+Gaurang Sharma
